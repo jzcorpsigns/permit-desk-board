@@ -15,7 +15,7 @@
     "paymentLinkBase": "",
     "ghlApiKey": "",
     "crmLiveAt": "2026-09-05T13:44:51.588Z",
-    "crmBoardSize": 52
+    "crmBoardSize": 53
   },
   "cities": [
     {
@@ -7013,20 +7013,27 @@
   "slackQaImports": [],
   "removedFromDesk": [
     {
+      "at": "2026-09-05T23:40:50.000Z",
+      "jobId": "job_ghl_ZFhewmtu8927wzoXXrWV",
+      "jobNumber": "PD-2420",
+      "name": "Micaela Test1",
+      "ghlOpportunityId": "ZFhewmtu8927wzoXXrWV",
+      "ghlContactId": "a4tLXZxZtoErbVjX3yaP"
+    },
+    {
+      "at": "2026-09-05T23:40:50.000Z",
+      "jobId": "job_7c66aa22",
+      "jobNumber": "PD-2420",
+      "name": "Micaela Test1",
+      "ghlContactId": "a4tLXZxZtoErbVjX3yaP"
+    },
+    {
       "at": "2026-09-05T23:23:58.000Z",
       "jobId": "job_ghl_5xPkujNZ3v0awPWBsTRj",
       "jobNumber": "PD-2450",
       "name": "Walmart 1349 - 3306 North University Drive, Sunrise, FL 33351",
       "ghlOpportunityId": "5xPkujNZ3v0awPWBsTRj",
       "ghlContactId": "795u09lfJ1goLATRQ2kt"
-    },
-    {
-      "at": "2026-09-05T23:19:19.000Z",
-      "jobId": "job_ghl_ZFhewmtu8927wzoXXrWV",
-      "jobNumber": "PD-2420",
-      "name": "Micaela Test1",
-      "ghlOpportunityId": "ZFhewmtu8927wzoXXrWV",
-      "ghlContactId": "a4tLXZxZtoErbVjX3yaP"
     }
   ]
 }
