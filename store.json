@@ -1333,14 +1333,6 @@
       "ghlContactId": "xgVZ44TPHlOENAJ2HgXV"
     },
     {
-      "id": "cli_cdabb4d6",
-      "company": "AGI",
-      "contactName": "Tanner Millican",
-      "email": "tmillican@agi.net",
-      "phone": "+18008777868",
-      "ghlContactId": "795u09lfJ1goLATRQ2kt"
-    },
-    {
       "id": "cli_c87f911d",
       "company": "Excel Signs",
       "contactName": "Paige Goins",
@@ -1589,38 +1581,6 @@
         "mailingAddress": ""
       },
       "ghlOpportunityId": "UgC9aUb1bUAuRHSePM9Q"
-    },
-    {
-      "id": "job_ghl_5xPkujNZ3v0awPWBsTRj",
-      "jobNumber": "PD-2450",
-      "name": "Walmart 1349 - 3306 North University Drive, Sunrise, FL 33351",
-      "clientId": "cli_cdabb4d6",
-      "siteAddress": "3306 North University Drive",
-      "siteCity": "Sunrise",
-      "siteState": "FL",
-      "siteZip": "33351",
-      "permittingCityId": "city_sunrise",
-      "signs": [
-        {
-          "id": "sgn_1b50e42e",
-          "signType": "Channel letters",
-          "signName": "Walmart 1349 - 3306 North University Drive, Sunrise, FL 33351",
-          "notes": ""
-        }
-      ],
-      "signType": "Channel letters",
-      "signName": "Walmart 1349 - 3306 North University Drive, Sunrise, FL 33351",
-      "publicToken": "walmart-1349-3306-north--2450",
-      "createdAt": "2026-09-05T13:44:51.588Z",
-      "notes": "",
-      "owner": {
-        "company": "Wal-Mart Stores East LP",
-        "contactName": "",
-        "email": "",
-        "phone": "",
-        "mailingAddress": ""
-      },
-      "ghlOpportunityId": "5xPkujNZ3v0awPWBsTRj"
     },
     {
       "id": "job_ghl_LlGLt4V6CKTXsBGwRHqT",
@@ -3314,76 +3274,6 @@
           "at": "2026-09-05T13:44:51.588Z",
           "actor": "James",
           "message": "Opened Miami Gardens permit tracking for Channel letters \u2014 Western Union - C2025084523 - 4705 NW 183RD ST, MIAMI GARDENS, FL 33055."
-        }
-      ]
-    },
-    {
-      "id": "per_job_ghl_5xPkujNZ3v0awPWBsTRj_city_sunrise_sgn_1b50e42e",
-      "jobId": "job_ghl_5xPkujNZ3v0awPWBsTRj",
-      "cityId": "city_sunrise",
-      "signId": "sgn_1b50e42e",
-      "permitNumber": "",
-      "portalReference": "",
-      "signType": "Channel letters",
-      "signName": "Walmart 1349 - 3306 North University Drive, Sunrise, FL 33351",
-      "signNotes": "",
-      "issuedPermitType": "Channel letters",
-      "status": "paid",
-      "submittedAt": "2026-09-05T13:44:51.588Z",
-      "plansUploaded": true,
-      "feeAmount": 0,
-      "fees": [
-        {
-          "id": "fee_per_job_ghl_5xPkujNZ3v0awPWBsTRj_city_sunrise_sgn_1b50e42e_1",
-          "amount": 0,
-          "permitType": "Channel letters"
-        }
-      ],
-      "portalLoggedIn": false,
-      "reviews": [
-        {
-          "departmentId": "sunrise_zon",
-          "status": "pending",
-          "reviewer": "",
-          "comments": ""
-        },
-        {
-          "departmentId": "sunrise_bld",
-          "status": "pending",
-          "reviewer": "",
-          "comments": ""
-        },
-        {
-          "departmentId": "sunrise_ele",
-          "status": "pending",
-          "reviewer": "",
-          "comments": ""
-        }
-      ],
-      "comments": [],
-      "documents": [],
-      "inspections": [
-        {
-          "id": "ins_a3339aa1",
-          "departmentId": "sunrise_bld",
-          "type": "Final",
-          "result": "pending",
-          "notes": ""
-        },
-        {
-          "id": "ins_5d692662",
-          "departmentId": "sunrise_ele",
-          "type": "Electrical",
-          "result": "pending",
-          "notes": ""
-        }
-      ],
-      "activity": [
-        {
-          "id": "act_cfd2e061",
-          "at": "2026-09-05T13:44:51.588Z",
-          "actor": "James",
-          "message": "Opened Sunrise permit tracking for Channel letters \u2014 Walmart 1349 - 3306 North University Drive, Sunrise, FL 33351."
         }
       ]
     },
@@ -7122,6 +7012,14 @@
   "followUpAcks": [],
   "slackQaImports": [],
   "removedFromDesk": [
+    {
+      "at": "2026-09-05T23:23:58.000Z",
+      "jobId": "job_ghl_5xPkujNZ3v0awPWBsTRj",
+      "jobNumber": "PD-2450",
+      "name": "Walmart 1349 - 3306 North University Drive, Sunrise, FL 33351",
+      "ghlOpportunityId": "5xPkujNZ3v0awPWBsTRj",
+      "ghlContactId": "795u09lfJ1goLATRQ2kt"
+    },
     {
       "at": "2026-09-05T23:19:19.000Z",
       "jobId": "job_ghl_ZFhewmtu8927wzoXXrWV",
